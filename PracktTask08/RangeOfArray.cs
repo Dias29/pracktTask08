@@ -8,9 +8,9 @@ namespace PracktTask08
 {
     class RangeOfArray
     {
-        private readonly int minIndex;
-        private readonly int maxIndex;
-        private readonly int[] array;
+        private  int minIndex;
+        private  int maxIndex;
+        private  int[] array;
 
         public RangeOfArray(int minIndex, int maxIndex)
         {
@@ -21,14 +21,13 @@ namespace PracktTask08
 
         public int this[int index]
         {
-            get
-            {
-                return array[index - minIndex];
-            }
+            get => array[index - minIndex];
             set
             {
-                array[index - minIndex] = value;
+                array[index] = value;
             }
         }
+
+
     }
 }
