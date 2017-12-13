@@ -4,3 +4,9 @@ c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTa
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask08\PracktTask08\obj\Debug\PracktTask08.csprojResolveAssemblyReference.cache
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask08\PracktTask08\obj\Debug\PracktTask08.exe
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask08\PracktTask08\obj\Debug\PracktTask08.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask08\PracktTask08\bin\Debug\PracktTask08.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask08\PracktTask08\obj\Debug\PracktTask08.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask08\PracktTask08\obj\Debug\PracktTask08.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask08\PracktTask08\obj\Debug\PracktTask08.csprojResolveAssemblyReference.cache
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask08\PracktTask08\bin\Debug\PracktTask08.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask08\PracktTask08\bin\Debug\PracktTask08.pdb
